@@ -1,0 +1,31 @@
+{
+  "name": "my-data-analysis-code",
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "Patel",
+      "id": "_:author_1",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/bvhpatel/my-data-analysis-code",
+  "dateCreated": "2024-07-13",
+  "description": "My code",
+  "issueTracker": "https://github.com/bvhpatel/my-data-analysis-code/issues",
+  "keywords": [
+    "test",
+    "thing"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [],
+  "programmingLanguage": [],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
